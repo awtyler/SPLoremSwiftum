@@ -1,7 +1,7 @@
 import XCTest
 
-import SPLorumSwiftumTests
+import SPLoremSwiftumTests
 
 var tests = [XCTestCaseEntry]()
-tests += SPLorumSwiftumTests.allTests()
+tests += SPLoremSwiftumTests.allTests()
 XCTMain(tests)
